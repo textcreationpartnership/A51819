@@ -1,0 +1,246 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon on the sincerity and integrity of the heart preach'd before Her Majesty, at White-Hall, February the 28th, 1693/4 / by T. Mannyngham ...</title>
+            <author>Manningham, Thomas, 1651?-1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51819</idno>
+            <idno type="STC">Wing M500</idno>
+            <idno type="STC">ESTC R6583</idno>
+            <idno type="EEBO-CITATION">12636933</idno>
+            <idno type="OCLC">ocm 12636933</idno>
+            <idno type="VID">64905</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51819)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64905)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 697:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon on the sincerity and integrity of the heart preach'd before Her Majesty, at White-Hall, February the 28th, 1693/4 / by T. Mannyngham ...</title>
+                  <author>Manningham, Thomas, 1651?-1722.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for S. Smith, and B. Walford ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half title: Dr. Mannyngham's sermon preach'd before Her Majesty, at White-Hall, February the 28th, 1693/4.</note>
+                  <note>Running title: A sermon preach'd before Her Majesty.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXXXIX, 23-24 --  Sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:64905:1"/>
+            <p>Dr. <hi>MANNYNGHAM's</hi> SERMON Preach'd before Her Majeſty, AT WHITE-HALL, <hi>February</hi> the 28th. 1693/4.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:64905:2"/>
+            <pb facs="tcp:64905:2" rendition="simple:additions"/>
+            <p>A SERMON ON THE <hi>Sincerity and Integrity of the Heart.</hi>
+            </p>
+            <p>Preach'd before Her Majeſty, AT WHITE-HALL, <hi>February</hi> the 28th. 1693/4.</p>
+            <p>By <hi>T. MANNYNGHAM,</hi> D.D. Chaplain in Ordinary to Their Majeſties, and Rector of St. <hi>Andrew-Holborn.</hi>
+            </p>
+            <p>Publiſh'd by Her Majeſty's Special Command</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>S. Smith,</hi> and <hi>B. Walford,</hi> at the <hi>Princes-Armes,</hi> in St. <hi>Paul's</hi> Church-yard, 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:64905:3"/>
+            <pb n="1" facs="tcp:64905:3"/>
+            <epigraph>
+               <q>
+                  <bibl>PSALM CXXXIX. 23.24.</bibl>
+                  <p>Search me, O God, and know my Heart: Try me, and know my Thoughts:</p>
+                  <p>And ſee if there be any wicked way in me, and lead me in the way Ever<g ref="char:EOLhyphen"/>laſting.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Pſalm is ſuppoſed to have been made by <hi>David,</hi> when he was under the <hi>Perſecution</hi> of <hi>Saul,</hi> when his Enemies accus'd him of <hi>Wicked Deſigns</hi> againſt the Govern<g ref="char:EOLhyphen"/>ment, and laid many things to his charge, of which he knew himſelf to be no ways guilty.</p>
+            <p>This put him upon the <hi>Juſtification</hi> of himſelf, and the clearing of his Innocency betwixt God and his own Soul; which he
+<pb n="2" facs="tcp:64905:4"/>performed in a very ſolemn and deliberate manner, by appealing to the <hi>Omniſcience</hi> of God, when he had with much exact<g ref="char:EOLhyphen"/>neſs, and a peculiar elegancy deſcrib'd <hi>it</hi> in the former part of this Pſalm. For here he acknowledges the <hi>Spiritual Nature</hi> of God, whereby he is preſent to all the Thoughts of our Minds, to all the Deſires of our Hearts, to the moſt ſecret Deſigns, and hidden Counſels of the Soul: That there is no getting out of his Preſence, no concealing any thing from his Knowledge; that there is no Night, no Darkneſs with reſpect to Him; but that all things are in a full Light and Manifeſtation to his All-ſeeing Eye.</p>
+            <p>Now, when he had declar'd what juſt Apprehenſions he had of the <hi>Divine Na<g ref="char:EOLhyphen"/>ture;</hi> and how clearly he was convinc'd, That there was no Thought of his Mind, no Word of his Mouth, no Inclination of his Heart, but what was perfectly known to that <hi>Infinite Spirit,</hi> who gave him his Soul, and fram'd all the Parts of his Body,
+<pb n="3" facs="tcp:64905:4"/>who knew his down-ſitting and his up-ri<g ref="char:EOLhyphen"/>ſing; who was about his Paths and about his Bed, and was acquainted with all his ways: when he had wrought ſuch a full Conviction and Awe in his Soul, of the <hi>Infinite Knowledge</hi> and <hi>Preſence</hi> of the Divine Power; then he deliver'd him<g ref="char:EOLhyphen"/>ſelf up to the Trial and Examination of that All-knowing Spirit; deſiring, that he would ſearch to the very bottom of his Heart, diſcover all the Foundations of his Soul, and ſee if there were <hi>any wicked way</hi> in him, any evil Purpoſe or Deſign, any miſchievous Imagination, of which his Enemies accus'd him: And if he found that he was innocent and clear, that he would ſtill protect and aſſiſt him under that <hi>Integrity</hi> of his Heart, of which he was ſo greatly Conſcious to himſelf; that he would lead him in that Path of <hi>
+                  <g ref="char:V">Ʋ</g>prightneſs</hi> and <hi>ſincere Piety,</hi> which would be ſure to bring him at length to <hi>Everlaſting</hi> Life.</p>
+            <p>Now, tho' this ſolemn <hi>Appeal</hi> to God, which <hi>David</hi> made in this Pſalm, may
+<pb n="4" facs="tcp:64905:5"/>ſeem to concern his <hi>Innocence,</hi> only in re<g ref="char:EOLhyphen"/>ſpect to thoſe <hi>particular Crimes</hi> which were then objected againſt him; as that he had enter'd into a Confederacy againſt the Crown and Life of <hi>Saul;</hi> and in purſu<g ref="char:EOLhyphen"/>ance of that Deſign, was a Favourer and Supporter of <hi>Wicked</hi> and <hi>Bloody Men;</hi> (the Thoughts of which he utterly deteſted, and declar'd, That he hated them with a perfect Hatred) yet we cannot conceive, but that when <hi>David</hi> vindicated himſelf from thoſe <hi>particular Accuſations,</hi> he like<g ref="char:EOLhyphen"/>wiſe at the ſame time appeal'd to God for the <hi>General Integrity</hi> of his Heart; for ſo the Acknowledgment of the <hi>Omniſcience</hi> of God did require him to do, who was acquainted with <hi>all</hi> the Deſigns of his Heart; and if he had indulg'd himſelf in any <hi>Evil</hi> way whatever, he could not ex<g ref="char:EOLhyphen"/>pect any Protection and Aſſiſtance from God.</p>
+            <p>The <hi>particular Crimes</hi> therefore which were objected againſt him, were the <hi>Occa<g ref="char:EOLhyphen"/>ſion</hi> of his appealing to God for the <hi>Gene<g ref="char:EOLhyphen"/>ral
+<pb n="5" facs="tcp:64905:5"/>Integrity</hi> of his Heart, as far as his own Search and Examination could reach: and if God by his ſeverer Scrutiny, by a<g ref="char:EOLhyphen"/>ny further Trial of Afflictions, ſhould diſ<g ref="char:EOLhyphen"/>cover to him any <hi>Deceitfulneſs</hi> of his Heart, or any way of Wickedneſs which he him<g ref="char:EOLhyphen"/>ſelf had not yet obſerved, he was ready to forſake it upon Conviction, and to be lead in the Upright Path, the way <hi>Ever<g ref="char:EOLhyphen"/>laſting.</hi>
+            </p>
+            <p>
+               <hi>Search me, O God, and know my Heart; Try me, and know my Thoughts; And ſee if there be any wicked way in me, and lead me in the way Everlaſting.</hi>
+            </p>
+            <p>Which Words may afford us theſe <hi>Three</hi> Conſiderations,
+<list>
+                  <item>1. What is that <hi>Sincerity</hi> and <hi>Integrity</hi> of Heart, which God indiſpen<g ref="char:EOLhyphen"/>ſably requires from all of us. <hi>See if there be any wicked way in me.</hi>
+                  </item>
+                  <item>
+                     <pb n="6" facs="tcp:64905:6"/>
+II. How we may beſt judge of this <hi>Sin<g ref="char:EOLhyphen"/>cerity</hi> and <hi>Integrity</hi> of our Hearts, <hi>viz.</hi> by ſearching and examining our own Conſciences; and eſpecial<g ref="char:EOLhyphen"/>ly by being willing to <hi>appeal</hi> to God's <hi>Omniſcience</hi> in that Matter: <hi>Search me, O God, and know my Heart; Try me, and know my Thoughts.</hi>
+                  </item>
+                  <item>III. That it is only this <hi>Sincerity</hi> and <hi>Integrity</hi> of the Heart which can en<g ref="char:EOLhyphen"/>title us to the Protection and favou<g ref="char:EOLhyphen"/>rable Aſſiſtance of God. <hi>Lead me in the way Everlaſting.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. What is that <hi>Sincerity</hi> and <hi>Integrity</hi> of Heart indiſpenſably required from all of us. <hi>See if there be any wicked way in me.</hi>
+            </p>
+            <p>Now according to the <hi>Pſalmiſt</hi>'s own Expreſſion in another place, God <hi>requires Truth in the inward Parts;</hi> That the real Intention of our Minds ſhould be to pleaſe him in all things, or that our Obedience
+<pb n="7" facs="tcp:64905:6"/>ſhould be perform'd upon a <hi>True Principle,</hi> the <hi>Authority of God,</hi> or a <hi>Conformity</hi> to his <hi>Will,</hi> which is that we mean by <hi>Since<g ref="char:EOLhyphen"/>rity.</hi>
+            </p>
+            <p>There are many <hi>Ends</hi> which Men may propoſe to themſelves in the ſame Action or Undertaking; but that which makes an Action Religious, is the performing of it with a principle regard to God, and to His Commands.</p>
+            <p>A Man may be <hi>ſober</hi> and <hi>temperate,</hi> be<g ref="char:EOLhyphen"/>cauſe it is agreeable to his Conſtitution, and conducing to his Health; becauſe he would preſerve a fair Reputation in the World; or to keep himſelf in ſuch a State of Mind and Body, as may give him the trueſt <hi>Reliſh</hi> of ſenſual Pleaſures, and a long Enjoyment of Temporal Eaſe and Happineſs: Upon ſuch <hi>Principles</hi> as theſe, the more <hi>Refined Epicureans</hi> may be very <hi>temperate</hi> and ſober Perſons, and look like men of great <hi>Moderation</hi> in the Eyes of the World, and yet be <hi>high Senſualiſts</hi> ſtill.</p>
+            <p>
+               <pb n="8" facs="tcp:64905:7"/>
+But whoſoever governs his Appetites upon a true Principle of <hi>Religion,</hi> does it upon the account of the <hi>Laws</hi> of <hi>God,</hi> and in imitation of the <hi>Example</hi> of <hi>Christ;</hi> that by withdrawing himſelf from the Pleaſures of this World, his Heart may be more fix'd upon <hi>Spiritual</hi> and <hi>Heavenly</hi> Enjoy<g ref="char:EOLhyphen"/>ments; and that he may live in a Prepara<g ref="char:EOLhyphen"/>tion to part with all his preſent Satisfacti<g ref="char:EOLhyphen"/>ons, when the Providence of God ſhall lay the <hi>Croſs</hi> upon him, or when <hi>Death</hi> ſhall ſummon him to depart out of this World.</p>
+            <p>All the <hi>outward</hi> things in Religion are capable of being <hi>Diſſembled,</hi> or at leaſt, of being acted upon <hi>Low,</hi> and <hi>unworthy Deſigns:</hi> Men may give Alms out of a Principle of Vain-glory; make long Prayers, as a Preface to Injuſtice; <hi>Fast</hi> and <hi>Mortifie</hi> only to appear Devout; re<g ref="char:EOLhyphen"/>ceive the Sacrament in compliance only with Cuſtom, and the expectation of Neigh<g ref="char:EOLhyphen"/>bours; They may Read the Bible out
+<pb n="9" facs="tcp:64905:7"/>of Curioſity, or in order to make Obje<g ref="char:EOLhyphen"/>ctions againſt it, or only to fill their Me<g ref="char:EOLhyphen"/>mories with its Phraſes, without conſider<g ref="char:EOLhyphen"/>ing the Wiſdom and Holineſs of thoſe Wri<g ref="char:EOLhyphen"/>tings, or without making them a Rule of Faith, and a Law of Life: And many may come to Church only to make their <hi>best Appearance,</hi> and to be <hi>Diverted,</hi> ra<g ref="char:EOLhyphen"/>ther than Edified by a Sermon; whereas the only ſolid and laſting Principle of <hi>theſe</hi> and ſuch like Duties, is a Senſe of our Obligation to God, a complying with his <hi>Authority</hi> and <hi>Will;</hi> a Deſign of promo<g ref="char:EOLhyphen"/>ting his Glory, by our hearty and ready Obedience, and of ſaving our Souls in the Day of the Lord.</p>
+            <p>There are ſome <hi>ſecular Conſiderations,</hi> which may come in as <hi>
+                  <g ref="char:V">Ʋ</g>nder-Motives</hi> to our Duty; becauſe God has been pleas'd to make uſe of <hi>them</hi> to invite us to Ver<g ref="char:EOLhyphen"/>tue and Holineſs: ſuch as a good Name, or fair Reputation in the World; Health and Plenty, and Length of Days; which are repreſented in the Book of <hi>Proverbs,</hi>
+               <pb n="10" facs="tcp:64905:8"/>as the Noble Retinue, and the Lovely At<g ref="char:EOLhyphen"/>tendants of true Wiſdom and Piety; ſuch as ſerve to make her Amiable and Glori<g ref="char:EOLhyphen"/>ous in the Eyes of all People; and there<g ref="char:EOLhyphen"/>fore muſt be allowed to have ſome attra<g ref="char:EOLhyphen"/>cting Force in them, and to be <hi>inducements</hi> to a good Life; but then we muſt take care that they be <hi>ſo</hi> in a <hi>ſubordinate</hi> man<g ref="char:EOLhyphen"/>ner, that they be not the <hi>chief</hi> and <hi>princi<g ref="char:EOLhyphen"/>ple</hi> Things for which we are willing to ſerve God: for theſe <hi>outward Advantages</hi> are but <hi>Accidental,</hi> or the uſual Bleſſings of an <hi>ordinary Providence;</hi> they are not the <hi>certain Fruits</hi> of Righteouſneſs, or its <hi>Eſſential</hi> Reward: Perſecutions, Afflicti<g ref="char:EOLhyphen"/>ons, and a calamitous State of Affairs, may hinder us of thoſe <hi>Ornaments</hi> of Ver<g ref="char:EOLhyphen"/>tue, and ſpoil us of <hi>thoſe Motives</hi> to Re<g ref="char:EOLhyphen"/>ligion; but nothing can break our good Purpoſes, when they are Bottom'd upon the true Principle, the <hi>Authority</hi> and <hi>Will</hi> of God.</p>
+            <p>In quiet Times, and when the Age is in good Temper, Religion may be very
+<pb n="11" facs="tcp:64905:8"/>
+               <hi>profitable</hi> even towards the bettering of our Circumſtances in <hi>this</hi> World; <hi>it</hi> may bring us to great Honour, and place us in the Favour and Eſteem of moſt Peo<g ref="char:EOLhyphen"/>ple: <hi>It</hi> may be attended by Riches and Plenty, and the faireſt Accommodations of this Life; and all the while, none of theſe <hi>ſplendid</hi> things may in the leaſt abate of the <hi>ſincerity</hi> of our Hearts; becauſe we are reſolv'd to continue in the <hi>ſame deſign</hi> of ſerving God, tho' he ſhould take away the <hi>Hedge</hi> that is about us: And tho' his Providence ſhould deliver us over to bitter Trials, yet with Holy <hi>Job,</hi> we would hold faſt our Integrity.</p>
+            <p>Vertue is always Virtue, and Duty is ever Duty to the <hi>ſincere Chriſtian;</hi> his out<g ref="char:EOLhyphen"/>ward Condition or his Fortune may alter, but his Heart and his good Intentions are ſtill the ſame: His Eye is upon God and his Laws, upon his Immutable Nature and Holineſs; <hi>That</hi> is, his Compaſs to Saile by in the Voyage of Life; and let it be ne<g ref="char:EOLhyphen"/>ver ſo Dark and Cloudy, he ſtill Steers
+<pb n="12" facs="tcp:64905:9"/>on: All other <hi>Motives</hi> may vary and change, but the Fear and Love of God is our <hi>ſure Direction,</hi> and will eſtabliſh us in the right way.</p>
+            <p>As <hi>Sincerity</hi> has reſpect to the <hi>Principle</hi> upon which we are to act, ſo the <hi>Integrity</hi> of the Heart has reſpect to <hi>all</hi> the Com<g ref="char:EOLhyphen"/>mandments of God; it will not conſiſt with a <hi>Partial</hi> Obedience, it will not al<g ref="char:EOLhyphen"/>low of any <hi>one</hi> Sin, tho' mens Conſtituti<g ref="char:EOLhyphen"/>ons and Natures, their Buſineſs and Im<g ref="char:EOLhyphen"/>ployments, the Examples of the Age, and the Vitious Cuſtoms of the World, plead ever ſo hard for the retaining of that <hi>one</hi> Sin: for the allowance of any <hi>one</hi> Sin, which we know to be ſuch, is a direct Violation of the <hi>Authority</hi> of God, and is inconſiſtent with a State of Pardon and Grace.</p>
+            <p>If we be contented that there remain any <hi>way</hi> of <hi>Wickedneſs</hi> in us, we have not yet truly Repented, neither can we expect that our Prayers ſhould be heard; <hi>for if
+<pb n="13" facs="tcp:64905:9"/>we regard Iniquity in our Hearts, the Lord will not hear us.</hi>
+            </p>
+            <p>What the <hi>Pſalmiſt</hi> here calls <hi>any Wicked way,</hi> we may underſtand either of a <hi>habit</hi> and courſe of Sin, or of any <hi>Indulgence</hi> to any one beloved Luſt; or of any ſecret <hi>Deſign</hi> and Purpoſe of committing any Evil whatever: If there be any thing of this Nature permitted to remain within our Souls, we have not that <hi>Integrity</hi> of Heart which God indiſpenſably requires to make our Repentance true, and our Reli<g ref="char:EOLhyphen"/>gious Service acceptable to him.</p>
+            <p>But then we ſhould do well to conſider, That the <hi>Integrity</hi> of the Heart is to be judg'd of by the Truth and Seriouſneſs of our Reſolutions and Endeavours, both to diſcover what <hi>ways</hi> of Wickedneſs there are in us, and then to put them from us, and to guard our ſelves againſt them for the future by an honeſt and hearty Dili<g ref="char:EOLhyphen"/>gence. As to ſome Remains of Corrupti<g ref="char:EOLhyphen"/>on, ſome Tendencies towards Evil, ſome Strivings of the Fleſh with the Spirit, ſome ſort of Infirmities and Slips, which are
+<pb n="14" facs="tcp:64905:10"/>not ſeperable from the ſtricteſt Life, and ſome Defects and Imperfections in our beſt Actions: Theſe are the Miſery and Burden of our Fallen Nature, theſe are Matter for the Exerciſe of a continual <hi>Humiliation;</hi> and notwithſtanding <hi>theſe Infirmities,</hi> our Hearts may be right with God, when we allow ourſelves in no <hi>way</hi> of Wickedneſs, in no <hi>Courſe</hi> of Sin, in no <hi>Indulgence</hi> of Ap<g ref="char:EOLhyphen"/>petites, in no <hi>Deſign</hi> of complying with any evil Thoughts, Deſires and Tendencies, but ſincerely endeavour to ſuppreſs and weaken the <hi>Remains</hi> of our Corruption, and <hi>to perfect Holineſs in the fear of the Lord.</hi>
+            </p>
+            <p>Thus we ſee what is that <hi>Sincerity</hi> and <hi>Integrity</hi> of Heart, which God indiſpenſa<g ref="char:EOLhyphen"/>bly requires from all of us, to qualifie us for his Pardon and Grace, and to make us true and real Chriſtians.</p>
+            <p>
+               <hi>Sincerity</hi> requires that we ſerve God up<g ref="char:EOLhyphen"/>on a <hi>Right Principle,</hi> without Hypocriſie, and with a due Senſe of his Authority and good Pleaſure. <hi>Integrity</hi> calls for our <hi>Re<g ref="char:EOLhyphen"/>ſolution</hi> and <hi>Endeavour</hi> to obey <hi>all</hi> the Com<g ref="char:EOLhyphen"/>mandments
+<pb n="15" facs="tcp:64905:10"/>of God, without making a Reſerve for <hi>any</hi> way of Wickedneſs what<g ref="char:EOLhyphen"/>ever.</p>
+            <p>The 2d Thing I propos'd, was, how we may beſt judge of this <hi>Sincerity</hi> and <hi>Integrity</hi> of our Hearts, <hi>viz.</hi> by examin<g ref="char:EOLhyphen"/>ing of our own Conſciences to that degree, as to be willing to appeal to God's <hi>Omniſ<g ref="char:EOLhyphen"/>cience</hi> in that Matter: <hi>Search me, O God, and know my Heart; Try me, and know my Thoughts.</hi>
+            </p>
+            <p>The Examining and Searching of our own Hearts is a neceſſary and a difficult Duty; all pretend to it, but there are few, I fear, who perform it thoroughly.</p>
+            <p>Moſt People will allow it to be a requiſite Forerunner to the Receiving of the Bleſſed Sacrament, and before the Solemn Feſtivals they will generally ſet aſide ſome time to conſider of their ways and Lives: But do they find it an eaſie matter to deſcend into themſelves, and to ſearch to the bottom of their Souls? Is there not a natural Averſe<g ref="char:EOLhyphen"/>neſs in Man to behold his <hi>own Deformity,</hi> or at leaſt to acknowledge it to be ſuch?
+<pb n="16" facs="tcp:64905:11"/>Can a Man be eaſily brought to ſearch and probe his <hi>own Wounds?</hi> Will not he pre<g ref="char:EOLhyphen"/>ſently draw back his Hand, and think he has done enough, before he has gone half way, or before he has reach'd to the Bottom and Core of his Diſeaſe?</p>
+            <p>When men knock at the Door of their own Hearts, are not Self-love, and Pride, and Security ready to ſtep out, and to tell them all is well? If they be ſo reſolute as to make a further Entrance, they diſcover perhaps a great many Sins; but they are ſo Painted and Varniſhed over by Preten<g ref="char:EOLhyphen"/>ces and Excuſes taken from the Cuſtoms and Examples of the World, that they hardly know how to condemn themſelves for entertaining ſuch modiſh and faſhiona<g ref="char:EOLhyphen"/>ble Gueſts. If they chance to be ſome<g ref="char:EOLhyphen"/>what more inquiſitive, and to open ano<g ref="char:EOLhyphen"/>ther Scene in their Hearts, they find per<g ref="char:EOLhyphen"/>haps a multitude of ſtrong and confirmed Habits of Sin, which have dwelt there a long time, and now plead Poſſeſion: They think it almoſt impoſſible to get out theſe ſetled and rooted Inhabitants; and now
+<pb n="17" facs="tcp:64905:11"/>they are come to ſuch Strength, to ſuch a twiſted and multiply'd Intereſt, they think they had better be let alone, than diſturb'd to no purpoſe. If they ſtill go on to make a deeper Search, behold there ap<g ref="char:EOLhyphen"/>pears a <hi>Fountain</hi> of <hi>Evil</hi> continually bub<g ref="char:EOLhyphen"/>ling up into impure Deſires, ſenſual Luſts, worldly Deſigns, and vile Imaginations! then they preſently conclude, That this is that which men call <hi>Original Sin,</hi> the bed of Cor<g ref="char:EOLhyphen"/>ruption, the brackiſh Fountain of Impure Streams, which Poiſons all our Nature: And as to this they think it ſufficient to ac<g ref="char:EOLhyphen"/>knowledge, that there is ſuch a <hi>Noiſome Dungeon</hi> in every Man's Heart, as well as in theirs, that there is no Obligation to cleanſe it, but to lament and bewayle them<g ref="char:EOLhyphen"/>ſelves for it, is enough.</p>
+            <p>Thus we ſee, how ſome who undertake a ſelf-examination, may be lead through all the Apartments of Sin and Wickedneſs without much concern; and be impos'd up<g ref="char:EOLhyphen"/>on by a train of cheats and deluſions, and think there is little for them to correct and amend, becauſe they have not yet diſcover'd
+<pb n="18" facs="tcp:64905:12"/>the great cheat of all, the <hi>Decitfulneſs</hi> of their own Hearts: For if they had found out that, and been well aware of it, they would ſoon have confeſs'd, that no faſhi<g ref="char:EOLhyphen"/>onable Cuſtoms of the World, no Growth, no ſtrength of Habits, could be any ex<g ref="char:EOLhyphen"/>cuſe for <hi>Wilful Sin;</hi> and that <hi>Original Cor<g ref="char:EOLhyphen"/>ruption</hi> was no ſuch Torrent of Evil, but that it might be weakned and diverted; and that they were mens actual and volun<g ref="char:EOLhyphen"/>tary Sins which fed and heightned that Fountain, and made it ſo often over-flow; that Repentance, and Prayer, and Watch<g ref="char:EOLhyphen"/>fulneſs, and a conſtancy in good Duties, might eaſily keep it within its Bounds, and reduce it to that low State, that tho' it might ſometimes make attempts againſt a Life of Vertue, yet it ſhould ſeldom pre<g ref="char:EOLhyphen"/>vail in ſuch Inſtances as could be interpret<g ref="char:EOLhyphen"/>ed to interrupt a Courſe of Goodneſs.</p>
+            <p>But now if People would examin their Hearts to ſome purpoſe, they muſt allow themſelves a conſiderable time to do it in, eſpecially thoſe who have not accuſtom'd <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hemſelves to this Duty already; they muſt
+<pb n="19" facs="tcp:64905:12"/>ſet about it with much thoughtfulneſs and concern; they muſt make themſelves very ſenſible of the horrid Nature of Sin, and that there is no eſcaping the Wrath of God, if they wilfully retain Iniquity in their Hearts: they muſt be very careful that they be not impos'd upon in this ſo neceſ<g ref="char:EOLhyphen"/>ſary a Work, by the Wiles of Satan, by the prevailing Vitiouſneſs of the Age, by the Treachery and Deceitfulneſs of their own Hearts: They muſt recal as many <hi>particular Tranſgreſſions</hi> as they can, and work into their Minds a more earneſt and ready Watchfulneſs againſt thoſe Sins, which their Conſtitutions, and their Cal<g ref="char:EOLhyphen"/>lings, and their way of Life, and their frequent Falls have made them moſt liable to: They muſt compare their Actions with the Rule of God's Word, with the Vows and Engagements they have already made with the ſtrictneſs of that profeſſion they are under, and with the Spiritual Nature of thoſe Rewards they are preparing them<g ref="char:EOLhyphen"/>ſelves to receive.</p>
+            <p>And if they would be further ſatisfy'd
+<pb n="20" facs="tcp:64905:13"/>of the <hi>Sincerity</hi> and <hi>Integrity</hi> of their Hearts, they cannot refuſe the Appealing to God's <hi>Omniſcience,</hi> that they are ſeri<g ref="char:EOLhyphen"/>ous and hearty in what they are doing, that they really deſign to get a full Know<g ref="char:EOLhyphen"/>ledge of themſelves, that they are not willing to conceal or cover any <hi>one</hi> Sin; but that having made ſuch Diſcovery of their Hearts as they are well able to attain to, they are willing and deſirous that God would try them further, by that <hi>Word of his which is quick and powerful, and ſharp<g ref="char:EOLhyphen"/>er than any two edged ſword, that is able to divide aſunder the Soul and Spirit, the Joynts and Marrow, and is a clear diſcerner of the Thoughts and Intents of the Heart:</hi> That if it may be for their further good, God would melt them down in the Furnace of Afflictions, and then make them ſenſible what Droſs there was adhering to them, what mixture of Impurity, which nothing but that <hi>Fire</hi> could have reveal'd.</p>
+            <p>Theſe are Trials which cannot be pro<g ref="char:EOLhyphen"/>pos'd and deſir'd, but by an Honeſt Heart; which muſt needs give us a teſtimony and
+<pb n="21" facs="tcp:64905:13"/>Comfortable aſſurance that we are <hi>Sincere,</hi> and that it is our full purpoſe to ſerve God all our days, and in all the Circumſtances of our Lives with clear <hi>Sincerity</hi> and <hi>Integrity</hi> of Heart; eſpecially, if we give our ſelves ſome leaſure to conſider what we do when we make this <hi>Solemn Appeal</hi> to God; and with <hi>David</hi> in this Pſalm, imploy our Minds for ſome time on the <hi>Spiritual Nature</hi> and <hi>Omniſ<g ref="char:EOLhyphen"/>cience</hi> of God, before we deſire to be Try'd, and Prov'd, and Examin'd by it.</p>
+            <p>He confeſſes that it was God that made him, and that ſaw his Subſtance before it was faſhion'd into the curious fabrick of an Hu<g ref="char:EOLhyphen"/>mane Body: That 'twas his ſecret power that fram'd the wonderful ſtructure that fitted all the innumerable parts with due proportion and Contexture, and made it a ſuitable Ha<g ref="char:EOLhyphen"/>bitation for an Immortal Soul. He confeſſes how the ſame Spirit and power is preſent to all the thoughts of his Heart, that there are no foldings, no dark receſſes, that can conceal any thing from him, that all the branchings of his Soul, the imaginations of his Heart, the compaſs of his converſation are regiſter'd in his Book, no night, no retirement that can
+<pb n="22" facs="tcp:64905:14"/>ſhut out God; no hiding from his Spirit, thô he ſhould travel into the remoteſt Countries, or remain in the uttermoſt parts of the Sea; nay thô he ſhould go down into <hi>Hades,</hi> and make his abode in the Regions of de<g ref="char:EOLhyphen"/>parted Souls, even there his Power and his Hand would find him out.</p>
+            <p>And when he had with ſuch deliberation and exactneſs conſider'd and acknowledg'd the <hi>Omniſcience</hi> of God, and view'd it in ſe<g ref="char:EOLhyphen"/>veral Lights, and imprinted it on his Mind by variety of Expreſſions; then he offers his whole Heart to be taken in pieces as an <hi>Anato<g ref="char:EOLhyphen"/>my</hi> before God; then he offers all his Reſo<g ref="char:EOLhyphen"/>lutions and Deſigns to be examined by that Spirit that ſearches all things.</p>
+            <p>And truly, whoever ſhall refuſe to undergo this Trial, has reaſon to doubt that there is ſome <hi>Hypocriſie</hi> remaining in him, ſome falſneſs of Heart, ſome allowance of Sin, ſome way of Wickedneſs, that he cannot yet bring him<g ref="char:EOLhyphen"/>ſelf to part with.</p>
+            <p>We muſt not think that 'tis the priviledge only of ſome <hi>few Saints</hi> to appeal to God in ſuch a Caſe as this; no Man can ſay his Prayers without doing that which amounts to the ſame
+<pb n="23" facs="tcp:64905:14"/>thing; he cannot ask forgiveneſs of God with<g ref="char:EOLhyphen"/>out a penitent Heart, and no one can be ſaid to repent without a ſincere endeavour to a<g ref="char:EOLhyphen"/>void all Sin for the future, of which Reſolu<g ref="char:EOLhyphen"/>tion he knows that God is the Judge.</p>
+            <p>The <hi>Integrity</hi> of the Heart does not oblige any one to ſay that he has never ſinned, or that he has no Inclinations to Evil, or that he has already obtain'd a Victory over all his ſenſual and worldly Deſires, or that he can promiſe to himſelf never to fall into Sin again: theſe are not the things that are neceſſarily requir'd to make good the <hi>Iutegrity</hi> of the Heart; but if we have ſeriouſly conſidered our ways, and do utterly abhor every thing that is Evil; if our good Reſolutions are fixed and our Pray<g ref="char:EOLhyphen"/>ers are wholly bent toward the pleaſing of God in newneſs of Life, then are we ſuch true Penitents, and ſuch ſincere Chriſtians as God will approve of, even when he himſelf has ſearched our Hearts, and known our Thoughts; then are we ſuch as he will carry on to greater perfection, as he will lead in the way <hi>Everlaſting.</hi> Which is the</p>
+            <p n="3">3d. and Laſt thing to be conſidered, <hi>viz.</hi> That 'tis only this <hi>Sincerity</hi> and <hi>Integrity</hi> of
+<pb n="24" facs="tcp:64905:15"/>the Heart that can entitle us to the favoura<g ref="char:EOLhyphen"/>ble aſſiſtance of God, whereby he will <hi>lead us in the way Everlaſting.</hi>
+            </p>
+            <p>Where there is not an honeſt Heart there can be expected no fruit of righteouſneſs: <hi>Sincerity</hi> is the only Soil wherein the word of God can be truly planted, and where the Gra<g ref="char:EOLhyphen"/>ces of the Goſpel can ſpring and flouriſh.</p>
+            <p>When we ſee men lead <hi>unprofitable</hi> Lives under the influence of good Inſtruction, under the outward Obſervances of Religion, and under all the real Advantages of being very eminently vertuous, if they were not wanting to themſelves; then we may be ſure that they are not <hi>ſound</hi> at Heart, that all their Religious Actions are blaſted by <hi>ſome ſecret Hypocriſie,</hi> and that they cannot proſper in Holineſs by reaſon of ſome <hi>reſerved Sin.</hi> There is ſome gainful Injuſtice that they will not yet lay a<g ref="char:EOLhyphen"/>ſide, there are ſome frauds and cheats that they will not yet ſeperate from their Imploy<g ref="char:EOLhyphen"/>ments and Callings; there is ſome lurking Revenge which they have not yet accom<g ref="char:EOLhyphen"/>pliſhed, ſome Malice which they deſire to execute, or ſome Senſuality which they know not how to renounce, and if there be any of
+<pb n="25" facs="tcp:64905:15"/>theſe ways of Wickedneſs in many profeſſed Chriſtians, no wonder that they do not thrive in Piety, and that their Souls grow thin and meagre under the beſt Proviſions in Religion, and the greateſt Plenty of the Goſpel: There is ſome accurſed thing, ſome ſecret conſciouſ<g ref="char:EOLhyphen"/>neſs of an unrepented Guilt that ſpoils thoſe Duties, which they cannot wholly neglect, and yet from which they receive but little benefit: whilſt their Souls are in ſuch a wretched con<g ref="char:EOLhyphen"/>dition, divided between God and the World, they do every thing <hi>deceitfully</hi> and with a double Heart; inſtead of repenting they only prevaricate with God; inſtead of confeſſing their Sins, they try to palliate them; when they ſhould ſearch their Corruptions they only cover it; and when they ſhould heal their wounded Souls, they only skin them over.</p>
+            <p>That which we read in the Text, <hi>if there be any wicked way in me,</hi> the Margint of our Bibles has it, if there be any way of <hi>Pain</hi> or <hi>Grief</hi> in me; and it is moſt certain, that where there is not an <hi>Integrity</hi> of Heart, there men will find no <hi>comfort</hi> in Religion; the Ways and Commandments of God are always grie<g ref="char:EOLhyphen"/>vous to ſuch, they walk in the Paths of Duty
+<pb n="26" facs="tcp:64905:16"/>with a Leg that was broken and is not well ſet, but has ſtill ſome Splinters in it that put them to continual Pain. They come to God with a trembling and a king Heart, and can have no Confidence, no filial Truſt and Rely<g ref="char:EOLhyphen"/>ance when they appear before him, there is ſome root of <hi>bitterneſs</hi> within that ſpoils the reliſh of all their Religious Duties. They pray, but without Faith and Devotion; they do many things in Religion, but without a true Principle of Obedience; they ſometimes receive the Sacrament, but 'tis with horror, ra<g ref="char:EOLhyphen"/>ther then gladneſs of Soul, with fear of eat<g ref="char:EOLhyphen"/>ing and drinking their own <hi>Damnation,</hi> rather then with raiſed Affections and a Spiritual Ap<g ref="char:EOLhyphen"/>petite. Believe it, there is no Strength, no Proficiency, no Comfort to be found in Re<g ref="char:EOLhyphen"/>ligion, unleſs you can bring your Hearts to renounce all ungodlineſs, and every <hi>wicked way:</hi> Unleſs you cleanſe your ſelves from all Maliciouſneſs, Injuſtice, Hatred and Conten<g ref="char:EOLhyphen"/>tions, Senſuality and Pride, from all Filthi<g ref="char:EOLhyphen"/>neſs both of Fleſh and Spirit.</p>
+            <p>But if upon a ſerious Examination we find our ſelves to be ſincere, and that we are wil<g ref="char:EOLhyphen"/>ling to pleaſe God in all things, according to
+<pb n="27" facs="tcp:64905:16"/>our Underſtandings, and according to our Power; then we may promiſe to our ſelves a gracious Acceptance of our honeſt and dili<g ref="char:EOLhyphen"/>gent Endeavours, a protection and guidance of our Perſons in our lawful Callings and Im<g ref="char:EOLhyphen"/>ployments, and a favourable conſtruction of our unvoluntary Slips and Infirmities: Then God and his Holy Angels will be ready to a<g ref="char:EOLhyphen"/>ſiſt us, to preſerve us from Dangers, to arm us againſt Temptations, to lead us in Truth and Righteouſneſs, in Piety and Vertue; which is the ſure, the certain, the <hi>everlaſting way.</hi>
+            </p>
+            <p>Where there is no deſign or purpoſe of Wickedneſs, there the Heart is <hi>prepared</hi> for God to write all his <hi>Laws</hi> upon it, and as it increaſes in purity, it will be capable of re<g ref="char:EOLhyphen"/>ceiving his Laws in a deeper Impreſſion and a fairer Character. <hi>Sincerity</hi> in the loweſt degree is the <hi>true Image</hi> of God on the Soul thô drawn but in weak Colours; a proficiency in Holineſs will add a further perfection to it, and quickly give it a ſtronger Life: The honeſt Mind re<g ref="char:EOLhyphen"/>ceives <hi>new Illumination</hi> from the <hi>Spirit</hi> that ſearches it, and the Thoughts of that Conſcience muſt needs be more awful, where God has been more eminently <hi>preſent.</hi>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:64905:17" rendition="simple:additions"/>
+Goodneſs, and Power, and Wiſdom, and Mercy, delight to encamp about all thoſe who are fully reſolved to ſerve God in the <hi>Integrity</hi> of their Hearts, they have a diſpoſition that fits them to receive the Influences of the Spi<g ref="char:EOLhyphen"/>rit, whereby they ſhall be mightily ſtrengthen<g ref="char:EOLhyphen"/>ed in the inner Man: they have a worthineſs to be admitted to the higheſt Myſteries of the Chriſtian Religion, to the neareſt Com<g ref="char:EOLhyphen"/>munion with God in Holy Duties, where they ſhall find their good Reſolutions confirmed, their pious Purpoſes encouraged, their honeſt Affections rais'd, and their <hi>Sincerity</hi> advanc'd into further degrees of <hi>Eſtabliſhed Virtue,</hi> and whilſt they keep on in the plain Path of Duty, and an upright Converſation, they ſhall be ſafely <hi>conducted</hi> thrô this Wilderneſs of Temp<g ref="char:EOLhyphen"/>tation and Miſery, to the Bleſſed Manſions of Everlaſting Peace and Glory.</p>
+            <closer>Now to God the Father, God the Son, and God the Holy Ghost, be all Honour and Glory, Praiſe and Thanksgiving, now and for Ever more.</closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:64905:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
